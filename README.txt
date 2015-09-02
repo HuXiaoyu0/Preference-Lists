@@ -1,11 +1,7 @@
 # Preference-Lists
 data structure, homework 4
 
-In this assignment you will write a program to manage the preferences and rankings between schools and
-applicants who wish to enroll at those schools. Your program will handle several different operations: adding
-a school and the ranking of students that the school is interested in admitting to their program, adding
-a student and the ranking of schools that applicant is interested in attending, editing (adding/removing)
-preferences, and printing the current state of these lists.
+In this assignment you will write a program to manage the preferences and rankings between schools and applicants who wish to enroll at those schools. Your program will handle several different operations: adding a school and the ranking of students that the school is interested in admitting to their program, adding a student and the ranking of schools that applicant is interested in attending, editing (adding/removing) preferences, and printing the current state of these lists.
 
 The input for the program will come from a file and the output will also go to a file. These file names are
 specified by command-line arguments. Here’s an example of how the program will be called:
